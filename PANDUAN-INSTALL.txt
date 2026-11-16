@@ -1,4 +1,4 @@
-iPlus Free v1.2.20
+iPlus Free v1.2.21
 
 Cadangkan tema melalui Blogger > Tema > Cadangkan.
 Pasang XML melalui Tema > Pulihkan. Atur logo/menu/konten di Tata Letak.
